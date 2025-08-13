@@ -19,8 +19,14 @@ Kryzys-2025/
 │
 ├── vWB-95.vmod              # Podstawowy moduł Vassal – z jednym scenariuszem.
 ├── graphics/                # Wspólne zasoby: mapy, scenariusze, ikonki, itp.
-└── saves/                   # Zapisy do gry (np. rozstawienie początkowe)
+├── saves/                   # Zapisy do gry (np. rozstawienie początkowe)
+└── scenarios/xxx            # Materiały związane ze scenariuszem - mapy, zapisy, scenariusze, okładki etc.
+   ├── saves/                # Zapisy do scenariusza (np. rozstawienie początkowe)
+   ├── map/                  # Mapy do scenariusza
+   ├── screenshots/          # Screenshoty ze scenariusza
+   └── scenario/             # Opis scenariusza, okładki
 ```
 
 ## 🎲 Scenariusze
 <img src="graphics/cover/osa-cover-mini.png">
+<img src="scenarios/hel-oksywie/scenario/low-cover.png">
